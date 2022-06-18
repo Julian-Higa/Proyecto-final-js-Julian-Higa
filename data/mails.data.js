@@ -1,0 +1,1 @@
+["mail1@homtail.com", "mail2@hotmail.com", "a@a"]
